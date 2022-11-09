@@ -1,0 +1,5 @@
+.git/
+.idea/
+Logger.iml
+data.jason
+target/
